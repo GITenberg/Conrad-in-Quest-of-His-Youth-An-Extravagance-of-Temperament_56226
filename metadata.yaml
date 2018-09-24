@@ -1,5 +1,8 @@
 _repo: Conrad-in-Quest-of-His-Youth-An-Extravagance-of-Temperament_56226
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56226-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Merrick, Leonard
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '3207'
     url: http://www.gutenberg.org/2009/agents/3207
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56226#Conrad-in-Quest-of-His-Youth-An-Extravagance-of-Temperament
 gutenberg_issued: '2017-12-23'
 gutenberg_type: Text
 identifiers:
